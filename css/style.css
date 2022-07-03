@@ -1,0 +1,12 @@
+body{
+    background-image: url(\https://raw.githubusercontent.com/Rasel19997/my-img/main/bird-1045954_1280.jpg);
+    background-size: cover;
+}
+
+.card-img-top{
+    border-radius: 50%;
+    height: 270px;
+}
+h5{font-size: 40px;
+color:blue;
+}
